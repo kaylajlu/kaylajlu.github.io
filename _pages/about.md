@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
@@ -28,5 +28,6 @@ latest_posts:
 ---
 
 
-Hi there! My name is Kayla, and I am a computer science student at Carnegie Mellon University. I enjoy coding practical applications and am passionate about using computer science to make a positive impact. I am always happy to talk, so feel free to reach out!
+
+Hi there! My name is Kayla, and I am a computer science student at Carnegie Mellon University. I enjoy coding practical applications and am passionate about using computer science to make a positive impact. I am always happy to talk feel free to reach out!
 
