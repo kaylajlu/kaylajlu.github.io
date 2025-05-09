@@ -25,7 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
-
 <p style="font-size: 24px;">Hi there! My name is Kayla, and I'm a computer science student at Carnegie Mellon University. I enjoy coding practical applications and am passionate about using computer science to make a positive impact. I am always happy to talk feel free to reach out!</p>
-
