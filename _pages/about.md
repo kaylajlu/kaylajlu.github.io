@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: left
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -29,5 +29,7 @@ latest_posts:
 
 
 
-Hi there! My name is Kayla, and I'm a computer science student at Carnegie Mellon University. I enjoy coding practical applications and am passionate about using computer science to make a positive impact. I am always happy to talk feel free to reach out!
+Hi there! My name is Kayla, and I'm a computer science student at Carnegie Mellon University. I enjoy coding practical applications and have exper
+
+ am passionate about using computer science to make a positive impact. I am always happy to talk feel free to reach out!
 
