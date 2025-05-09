@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: home
 title: about
 permalink: /
@@ -28,29 +28,5 @@ latest_posts:
 ---
 
 
-Hi there! My name is Kayla, and I am a computer science student at Carnegie Mellon University. I enjoy coding practical applications and am passionate about using computer science to make a positive impact. I am always happy to talk, so feel free to reach out! -->
-
----
-layout: home
-permalink: /
----
-
-<section id="about">
-## About Me
-
-Some information about Kayla Lu...
-</section>
-
-<section id="projects">
-## Projects
-
-- Project 1  
-- Project 2  
-</section>
-
-<section id="contact">
-## Contact
-
-Contact details herce...
-</section>
+Hi there! My name is Kayla, and I am a computer science student at Carnegie Mellon University. I enjoy coding practical applications and am passionate about using computer science to make a positive impact. I am always happy to talk, so feel free to reach out!
 
