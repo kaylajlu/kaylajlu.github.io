@@ -441,12 +441,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-chess-game",
           title: 'Chess Game',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-stepr-project",
           title: 'STEPR Project',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-pagerank-algorithm",
