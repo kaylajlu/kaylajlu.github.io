@@ -13,7 +13,7 @@
       "endDate": "Dec. 2026"
     }
   ],
-  "experience": [
+  "work": [
     {
       "name": "Carnegie Mellon University Human-Computer Interaction Institute",
       "position": "Research Assisstant",
@@ -32,7 +32,7 @@
       "name": "Tarigma Corporation",
       "position": "Software Engineer Intern",
       "startDate": "June 2023",
-      "endDate": "Aug. 2024",
+      "endDate": "Aug. 2023",
       "summary": "Taught the fundamentals of mathetmatical theory."
     }
   ],
