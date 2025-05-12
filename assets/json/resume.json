@@ -13,15 +13,27 @@
       "endDate": "Dec. 2026"
     }
   ],
-  "work": [
+  "experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Carnegie Mellon University Human-Computer Interaction Institute",
+      "position": "Research Assisstant",
+      "startDate": "Sept. 2024",
+      "endDate": "Dec. 2024",
+      "summary": "Taught the fundamentals of mathetmatical theory."
+    },
+    {
+      "name": "Carnegie Mellon University School of Computer Science",
+      "position": "Discrete Mathematics Tutor",
+      "startDate": "Jan. 2025",
+      "endDate": "May 2025",
+      "summary": "Taught the fundamentals of mathetmatical theory."
+    },
+    {
+      "name": "Tarigma Corporation",
+      "position": "Software Engineer Intern",
+      "startDate": "June 2023",
+      "endDate": "Aug. 2024",
+      "summary": "Taught the fundamentals of mathetmatical theory."
     }
   ],
   "skills": [
