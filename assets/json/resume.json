@@ -9,8 +9,8 @@
       "institution": "Carnegie Mellon University School of Computer Science",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
-      "startDate": "Aug. 2023",
-      "endDate": "Dec. 2026"
+      "startDate": "Aug 2023",
+      "endDate": "Dec 2026"
     }
   ],
   "work": [
@@ -18,12 +18,12 @@
       "name": "iCapital",
       "position": "Platform Engineering Intern",
       "startDate": "June 2025",
-      "endDate": "Aug 2024",
-      "summary": "Incomign for Summer 2025."
+      "endDate": "Aug 2025",
+      "summary": "Incoming for Summer 2025."
     },
     {
       "name": "Carnegie Mellon University Human-Computer Interaction Institute",
-      "position": "Research Assisstant",
+      "position": "Research Assistant",
       "startDate": "Sept 2024",
       "endDate": "Dec 2024",
       "summary": "Used prompt engineering to gather the best LLM response and implemented a user interface to display the user queries."
