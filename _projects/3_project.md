@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PageRank and Hyperlink-Induced Topic Search (HITS) Algorithm
+title: PageRank Algorithm
 description: 
 img: assets/img/Node_Graph.jpg
 importance: 3
