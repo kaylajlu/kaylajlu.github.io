@@ -12,4 +12,4 @@ STEPR stands for Step-by-Step for Engine Performance Readiness. I worked with a 
 
 After testing prompt engineering on different large language models as well as testing unique search method such as vector search, we implemented a proof of concept to put all of our findings together.
 
-View Poster Board Here: [STEPR Project Report (PDF)](/assets/img/STEPR_Poster_Session.png)
+View Poster Board Here: [STEPR Project Poster Board](/assets/img/STEPR_Poster_Board.png)

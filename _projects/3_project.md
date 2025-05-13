@@ -2,7 +2,7 @@
 layout: page
 title: PageRank and Hyperlink-Induced Topic Search (HITS) Algorithm
 description: 
-img: assets/img/chess_board.png
+img: assets/img/Node_Graph.jpg
 importance: 3
 category: work
 related_publications: false
