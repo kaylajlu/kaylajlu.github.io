@@ -91,7 +91,26 @@
         - Description 1.
         - Description 2.
 
+- title: Courses
+  type: list_groups
+  contents:
+    - name: Core CS Courses
+      keywords:
+        - Introduction to Computer Systems
+        - Data Structures and Algorithms
+        - Operating Systems
+        - Computer Architecture
+
+    - name: Electives
+      keywords:
+        - Game Design
+        - Human-Computer Interaction
+        - Machine Learning
+        - Computational Photography
+
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+
