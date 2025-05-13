@@ -55,14 +55,14 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-pagerank-algorithm",
-          title: 'PageRank Algorithm',
-          description: "with background image",
+            },},{id: "projects-pagerank-and-hyperlink-induced-topic-search-hits-algorithm",
+          title: 'PageRank and Hyperlink-Induced Topic Search (HITS) Algorithm',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-robotics",
           title: 'Robotics',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
