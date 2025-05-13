@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robotics
-description: with background image
+description:
 img: assets/img/chess_board.png
 importance: 4
 category: work

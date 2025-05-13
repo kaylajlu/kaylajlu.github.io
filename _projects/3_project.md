@@ -1,11 +1,16 @@
 ---
 layout: page
-title: PageRank Algorithm
-description: with background image
+title: PageRank and Hyperlink-Induced Topic Search (HITS) Algorithm
+description: 
 img: assets/img/chess_board.png
 importance: 3
 category: work
 related_publications: false
 ---
 
-I created a two-player chess game that is capable of all the standard chess features and blocks illegal moves. This was my 15-112 term project when I took the course the summer after my junior year of high school. I leveraged the object-oriented programming and Python coding skills I learned throughout the course, as well as used CMU Graphics and Tkinter to bring the project to life.
+
+My teammate and I wrote a paper that provided a thorough analysis on the PageRank and HITS algorithms: two commonly used web-ranking algorithms. 
+
+We started by explaining the mathematics behind the PageRank algoirthm. We introduced three distinct versions of it: Simple PageRank, Damped PageRank, and Dangling Node PageRank. Each version provides a prirority on different hyperlinks depending on the number of links connected to each hyperlink and the quality of them. We provided both mathematical explanations and code simulations of the algorithms.
+
+We also examed the Hyperlink-Induced Topic Search (HITS) algorithm and conducted a similar process where we did a mathemtical breakdwon of the algorithm and simulated it through code.
