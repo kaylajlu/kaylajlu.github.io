@@ -55,8 +55,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-pagerank-and-hyperlink-induced-topic-search-hits-algorithm",
-          title: 'PageRank and Hyperlink-Induced Topic Search (HITS) Algorithm',
+            },},{id: "projects-pagerank-algorithm",
+          title: 'PageRank Algorithm',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
