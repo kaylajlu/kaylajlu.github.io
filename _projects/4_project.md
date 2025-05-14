@@ -9,11 +9,11 @@ related_publications: false
 ---
 
 
-In high school, I was programming lead of my school district’s highly acclaimed robotics team. Each year, we were given a new game challenge, and our robot had to meet a specific set of criteria to compete effectively. The challenges vary: one year, we were asked to have our robot shoot balls through a target and another year, we were asked to place traffic cones onto poles.
+In high school, I served as the programming lead for my school district’s highly acclaimed robotics team. Each year, we were given a new game challenge, and our robot had to meet a specific set of criteria to compete effectively. The challenges varied: one year, our robot was tasked with shooting balls through a target; another year, it had to place traffic cones onto poles.
 
-When it came to programming the robot, our most important job was to program the motors and motor controllers that make the robot operate. However, each game challenge came with an autonomous component, so we had to program our robot to follow user input and to work effectively on its own.
+As programmers, our most important job was to control the motors and motor controllers that made the robot function. Each game also included an autonomous component, so we had to ensure the robot could both follow user input and operate independently during designated phases of the match.
 
-Here is a video of a robot my team designed, built, and programmed operating on its own!
+Here is a video of a robot that my team designed, built, and programmed operating on its own!
 
 <video width="580" height="360" controls>
   <source src="/assets/video/Robot_Demo.mp4" type="video/mp4">

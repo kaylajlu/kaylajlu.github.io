@@ -8,9 +8,10 @@ category: work
 related_publications: false
 ---
 
+I contributed to a paper that provided a thorough analysis of the PageRank and HITS algorithms—two commonly used web-ranking algorithms.
 
-My teammate and I wrote a paper that provided a thorough analysis on the PageRank and HITS algorithms: two commonly used web-ranking algorithms. 
+We began by explaining the mathematics behind the PageRank algorithm and introduced three distinct versions: Simple PageRank, Damped PageRank, and Dangling Node PageRank. Each version prioritizes different hyperlinks based on the number of connections and the quality of the linked pages. We provided both mathematical explanations and code simulations for these algorithms.
 
-We started by explaining the mathematics behind the PageRank algoirthm. We introduced three distinct versions of it: Simple PageRank, Damped PageRank, and Dangling Node PageRank. Each version provides a prirority on different hyperlinks depending on the number of links connected to each hyperlink and the quality of them. We provided both mathematical explanations and code simulations of the algorithms.
+We also examined the Hyperlink-Induced Topic Search (HITS) algorithm and followed a similar process, breaking down the mathematics behind it and simulating its behavior through code.
 
-We also examed the Hyperlink-Induced Topic Search (HITS) algorithm and conducted a similar process where we did a mathemtical breakdwon of the algorithm and simulated it through code.
+Ultimately, this project helped me develop a deeper understanding of the underlying algorithms in my everyday life and further understand the connection between theory and practical applications.
