@@ -26,8 +26,8 @@ latest_posts:
 
 Hi! My name is Kayla, and I’m a computer science student at Carnegie Mellon University. I’m passionate about applying computer science to make a positive impact across diverse fields.
 
-At Carnegie Mellon, I have completed a wide range of coursework, which has allowed me to develop an appreciation for the intersection of theory and practical application.
+Through a broad range of coursework, I have developed an appreciation for the intersection of theory and practical application.
 
-Outside of school, I have experience in full-stack development, robotics, traning large-language models, and more. I am eager to expand on what I learn about the usages of computer science.
+I also have experience in full-stack development, robotics, traning large-language models, and more. I am always eager to explore new ways computer science can be used.
 
-I’m always happy to connect and chat about work opportunitites, collaboration, and impactful projects, so feel free to reach out!
+I am happy to connect and chat about work opportunitites, collaboration, and  projects, so feel free to reach out!

@@ -15,32 +15,32 @@
   ],
   "work": [
     {
-      "name": "iCapital",
+      "name": "Carnegie Mellon University Human-Computer Interaction Institute",
+      "position": "Research Assistant",
+      "startDate": "Sep 2024",
+      "endDate": "Dec 2024",
+      "summary": "Used prompt engineering to gather the best LLM response and implemented a user interface to display responses to user queries."
+    },
+    {
+      "name": "iCapital Network",
       "position": "Platform Engineering Intern",
       "startDate": "June 2025",
       "endDate": "Aug 2025",
-      "summary": "Incoming for Summer 2025."
-    },
-    {
-      "name": "Carnegie Mellon University Human-Computer Interaction Institute",
-      "position": "Research Assistant",
-      "startDate": "Sept 2024",
-      "endDate": "Dec 2024",
-      "summary": "Used prompt engineering to gather the best LLM response and implemented a user interface to display the user queries."
+      "summary": "Accepted offer to join as a Platform Engineering Intern in Summer 2025."
     },
     {
       "name": "Carnegie Mellon University School of Computer Science",
       "position": "Discrete Mathematics Tutor",
       "startDate": "Jan 2025",
       "endDate": "May 2025",
-      "summary": "Taught the fundamentals of mathetmatical theory."
+      "summary": "Taught the fundamentals of mathematical theory."
     },
     {
       "name": "Tarigma Corporation",
       "position": "Software Engineer Intern",
       "startDate": "June 2023",
       "endDate": "Aug 2023",
-      "summary": "Created a dynamic Microsoft SSRS reporting feature."
+      "summary": "Created a dynamic Microsoft SSRS reporting feature. Integrated it into a web application and used full-stack development to get live data."
     }
   ],
   "skills": [
@@ -96,8 +96,8 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "15-251: Great Theoretical Ideas in CS",
-        "15-151: Mathematical Foundations for CS",
+        "15-251: Great Theoretical Ideas in Computer Science",
+        "15-151: Mathematical Foundations for Computer Science",
         "21-241: Matrices and Linear Transformations"
       ]
     }
