@@ -15,7 +15,7 @@ When it came to programming the robot, our most important job was to program the
 
 Here is a video of a robot my team designed, built, and programmed operating on its own!
 
-<video width="600" height="360" controls>
+<video width="580" height="360" controls>
   <source src="/assets/video/Robot_Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
