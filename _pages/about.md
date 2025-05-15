@@ -30,4 +30,4 @@ Through a broad range of coursework, I have developed an appreciation for the in
 
 I also have experience in full-stack development, robotics, traning large-language models, and more. I am always eager to explore new ways computer science can be used.
 
-I am happy to connect and chat about work opportunitites, collaboration, and  projects, so feel free to reach out!
+I am happy to connect and chat about work opportunitites, collaboration, and projects, so feel free to reach out!

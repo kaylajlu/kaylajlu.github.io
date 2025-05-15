@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PageRank Algorithm
-description: 
+description:
 img: assets/img/Node_Graph.jpg
 importance: 3
 category: work

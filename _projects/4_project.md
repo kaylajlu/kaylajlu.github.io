@@ -8,7 +8,6 @@ category: work
 related_publications: false
 ---
 
-
 In high school, I served as the programming lead for my school district’s highly acclaimed robotics team. Each year, we were given a new game challenge, and our robot had to meet a specific set of criteria to compete effectively. The challenges varied: one year, our robot was tasked with shooting balls through a target; another year, it had to place traffic cones onto poles.
 
 As programmers, our most important job was to control the motors and motor controllers that made the robot function. Each game also included an autonomous component, so we had to ensure the robot could both follow user input and operate independently during designated phases of the match.
