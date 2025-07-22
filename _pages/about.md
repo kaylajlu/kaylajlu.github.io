@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Kayla, and I’m a computer science student at Carnegie Mellon University. I’m passionate about applying computer science to make a positive impact across diverse fields.
+Hi! My name is Kayla, and I’m a computer science student at Carnegie Mellon University. I’m passionate about applying computer science to make a positive impact across diverse fields. 
 
-Through a broad range of coursework, I have developed an appreciation for the intersection of theory and practical application.
+Through a broad range of coursework, I have developed an appreciation for the intersection of theory and practical application. I am especially interested in machine learning and human-computer interaction, but I am always excited to learn more.
 
-I also have experience in full-stack development, robotics, traning large-language models, and more. I am always eager to explore new usages of computer science.
+I also have experience in full-stack development, robotics, training large-language models, and more. I am always eager to explore new usages of computer science.
 
 I am happy to connect and chat about work opportunitites, collaboration, and projects, so feel free to reach out!
