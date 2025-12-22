@@ -68,6 +68,7 @@
         "15-150: Principles of Functional Programming",
         "15-210: Parallel and Sequential Data Structures and Algorithms",
         "15-213: Introduction to Computer Systems",
+        "15-440: Distributed Systems",
         "15-451: Design and Analysis of Algorithms",
         "16-385: Computer Vision",
         "05-391: Designing Human-Centered Software"
@@ -78,9 +79,10 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "15-251: Great Theoretical Ideas in Computer Science",
         "15-151: Mathematical Foundations for Computer Science",
-        "21-241: Matrices and Linear Transformations"
+        "15-251: Great Theoretical Ideas in Computer Science",
+        "21-241: Matrices and Linear Transformations",
+        "36-218: Probability Theory for Computer Scientists"
       ]
     }
   ]
